@@ -1,0 +1,185 @@
+{
+  "profesores": [
+    {
+      "nombre": "Benjamin Limon Martinez",
+      "especialidad": "Informática en sistemas",
+      "materias": "Programación, Inteligencia Artificial y Cultura Digital",
+      "semestres": "Primero, tercero y quinto",
+      "foto": "imagenes/limon.jpeg",
+      "categoria": "modulo"
+    },
+    {
+      "nombre": "Javier Alfonso Acosta Garcia",
+      "especialidad": "Ingeniería electromecánica y manufactura avanzada",
+      "materias": "Módulo de mantenimiento automotriz",
+      "semestres": "Tercero y quinto",
+      "foto": "imagenes/maquinas (2).jpeg",
+      "categoria": "modulo"
+    },
+    {
+      "nombre": "Mario Alonso Santoyo Arollo",
+      "especialidad": "Educación, refrigeración e ingeniería industrial",
+      "materias": "Módulo profesional de mantenimiento industrial",
+      "semestres": "Tercero y quinto",
+      "foto": "imagenes/industrial (2).jpeg",
+      "categoria": "modulo"
+    },
+    {
+      "nombre": "Felipe Hernandez Gonzalez",
+      "especialidad": "Ingeniería en electrónica",
+      "materias": "Electrónica y semiconductores",
+      "semestres": "Tercero y quinto",
+      "foto": "imagenes/electronica (2).jpeg",
+      "categoria": "modulo"
+    },
+    {
+      "nombre": "Jose Luis Gonzalez Lopez",
+      "especialidad": "Semiconductores",
+      "materias": "Semiconductores y matemáticas",
+      "semestres": "Tercero",
+      "foto": "imagenes/profesor (2).jpeg",
+      "categoria": "modulo"
+    },
+    {
+      "nombre": "Brenda Itzel Herrera Garcia",
+      "especialidad": "Informática, sistemas computacionales y educación",
+      "materias": "Cultura Digital e Inteligencia Artificial",
+      "semestres": "Primero y tercero",
+      "foto": "imagenes/brenda.jpeg",
+      "categoria": "modulo"
+    },
+    {
+      "nombre": "Erika Aide Perez Abrego",
+      "especialidad": "Ingeniería industrial y de sistemas, maestría en educación",
+      "materias": "Ciencias naturales y humanidades",
+      "semestres": "Tercero y quinto",
+      "foto": "imagenes/erika.jpeg",
+      "categoria": "general"
+    },
+    {
+      "nombre": "Laura Esmeralda Heredia Blanco",
+      "especialidad": "Biología, física y química",
+      "materias": "Ciencias",
+      "semestres": "Primero, tercero y quinto",
+      "foto": "imagenes/laura.jpeg",
+      "categoria": "general"
+    },
+    {
+      "nombre": "Erik Ramirez Solis",
+      "especialidad": "Ingeniería electromecánica y educación",
+      "materias": "Pensamiento matemático",
+      "semestres": "Primero, tercero y quinto",
+      "foto": "imagenes/erik.jpeg",
+      "categoria": "general"
+    },
+    {
+      "nombre": "Mildred Yasmin Reyes Noberto",
+      "especialidad": "Ingeniería química y docencia",
+      "materias": "Temas selectos de matemáticas 2",
+      "semestres": "Quinto",
+      "foto": "imagenes/profesora.jpeg",
+      "categoria": "general"
+    },
+    {
+      "nombre": "Luis Enrique Lerma Martinez",
+      "especialidad": "Ingeniería petrolera y docencia",
+      "materias": "Lengua y comunicación, Conciencia Histórica 2",
+      "semestres": "Primero, tercero y quinto",
+      "foto": "imagenes/lerma.jpeg",
+      "categoria": "general"
+    },
+    {
+      "nombre": "Yuridia Lizbeth Cepeda Ramos",
+      "especialidad": "Ingeniería industrial, matemáticas y educación",
+      "materias": "Inglés y temas selectos de matemáticas 2",
+      "semestres": "Quinto",
+      "foto": "imagenes/profesora.jpeg",
+      "categoria": "general"
+    },
+    {
+      "nombre": "Juan Pablo Torres Adame",
+      "especialidad": "Información administrativa y ciencias de la enseñanza",
+      "materias": "Cultura Digital y Programación",
+      "semestres": "Primero, tercero y quinto",
+      "foto": "imagenes/juanpablo.jpeg",
+      "categoria": "general"
+    },
+    {
+      "nombre": "Romualdo Guadalupe de la Cruz",
+      "especialidad": "Mantenimiento industrial e instalaciones petroleras",
+      "materias": "Pensamiento matemático y mantenimiento",
+      "semestres": "Primero y tercero",
+      "foto": "imagenes/romualdo.jpeg",
+      "categoria": "general"
+    },
+    {
+      "nombre": "Liliana Rosas Pacheco",
+      "especialidad": "Pedagogía y educación",
+      "materias": "Conciencia Histórica, formación socioemocional, lengua y humanidades",
+      "semestres": "Primero y quinto",
+      "foto": "imagenes/liliana.jpeg",
+      "categoria": "general"
+    },
+    {
+      "nombre": "Ulises Solis Rieboles",
+      "especialidad": "Química farmacéutica y educación",
+      "materias": "Ciencias naturales",
+      "semestres": "Primero, tercero y quinto",
+      "foto": "imagenes/ulises.jpeg",
+      "categoria": "general"
+    },
+    {
+      "nombre": "Bertha Alicia Zapata Aldape",
+      "especialidad": "Doctorados",
+      "materias": "Matemáticas",
+      "semestres": "Primero y tercero",
+      "foto": "imagenes/profesora.jpeg",
+      "categoria": "general"
+    },
+    {
+      "nombre": "Grecia Avalos Ramos",
+      "especialidad": "Ingeniería en sistemas",
+      "materias": "Lengua y comunicación",
+      "semestres": "Primero y tercero",
+      "foto": "imagenes/grecia.jpeg",
+      "categoria": "general"
+    },
+    {
+      "nombre": "Sandra Catalina Silva Camacho",
+      "especialidad": "Pedagogía de la enseñanza",
+      "materias": "Lengua y comunicación",
+      "semestres": "Quinto",
+      "foto": "imagenes/sandra.jpeg",
+      "categoria": "general"
+    },
+    {
+      "nombre": "Karla Valeria Moran Lerma",
+      "especialidad": "",
+      "materias": "Pensamiento filosófico y ciencias sociales",
+      "semestres": "Primero y tercero",
+      "foto": "imagenes/karla.jpeg",
+      "categoria": "general"
+    },
+    {
+      "nombre": "Walter Allan Barrera Cerda",
+      "club": "Rondalla",
+      "semestres": "Primero, tercero y quinto",
+      "foto": "imagenes/walter.jpeg",
+      "categoria": "club"
+    },
+    {
+      "nombre": "Diana Janeth Uriegas Garza",
+      "club": "Oratoria",
+      "semestres": "Primero, tercero y quinto",
+      "foto": "imagenes/profesora.jpeg",
+      "categoria": "club"
+    },
+    {
+      "nombre": "Isidro de Leon Flores",
+      "club": "Educación premilitar",
+      "semestres": "Primero, tercero y quinto",
+      "foto": "imagenes/profesor (2).jpeg",
+      "categoria": "club"
+    }
+  ]
+}
